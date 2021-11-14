@@ -1,0 +1,14 @@
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.exe
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.deps.json
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.runtimeconfig.json
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.runtimeconfig.dev.json
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.dll
+C:\Users\Esra\source\repos\A2HW\A2HW\bin\Debug\netcoreapp3.1\A2HW.pdb
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.AssemblyInfoInputs.cache
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.AssemblyInfo.cs
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.csproj.CoreCompileInputs.cache
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.dll
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.pdb
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.genruntimeconfig.cache
+C:\Users\Esra\source\repos\A2HW\A2HW\obj\Debug\netcoreapp3.1\A2HW.csproj.AssemblyReference.cache
